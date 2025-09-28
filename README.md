@@ -1,4 +1,4 @@
 # first-demo
 this is my github repository
 <br>
-autor by keisham chourjit
+autor by keisham (ritcollege)
